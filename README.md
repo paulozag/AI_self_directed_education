@@ -8,48 +8,83 @@ Dilemma: With regard to my understanding of computer science I currently reside 
 
 General Computer Science - 
 (a lot of this was directly lifted from a wonderful resource provided by Myles Byrne at the Bradfield School of Computer Science  http://bradfieldcs.com/diy/ )
-
+			
 	Programming:
 		Structure and Interpretation of Computer Programs (free online book or video)
+			http://bradfieldcs.com/diy/
 			https://mitpress.mit.edu/sicp/full-text/book/book.html
 			http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 		How to Design Programs: An Introduction to Programming and Computing (less challenging) 
-				https://www.amazon.com/gp/product/0262062186?pldnSite=1 
+			https://www.amazon.com/gp/product/0262062186?pldnSite=1 
 		Concepts, Techniques, and Models of Computer Programming (MIT Press) (more challenging)
-				https://www.amazon.com/gp/product/0262220695?pldnSite=1
+			https://www.amazon.com/gp/product/0262220695?pldnSite=1
+
 	Computing Systems:
 		The Elements of Computing Systems, also known as “Nand2Tetris”
-				The first half of this book/course are available for free at:
-						http://www.nand2tetris.org/  (ebook)
-						https://www.coursera.org/learn/build-a-computer  (course)
+			The first half of this book/course are available for free at:
+				http://www.nand2tetris.org/  (ebook)
+				https://www.coursera.org/learn/build-a-computer  (course)
 		Computer Science 152: Computer Architecture and Engineering (free- more advanced)
-				https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr (youtube lectures)
-				http://www-inst.eecs.berkeley.edu/~cs152/sp16/  (lecture notes)
+			https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr (youtube lectures)
+			http://www-inst.eecs.berkeley.edu/~cs152/sp16/  (lecture notes)
+
 	Problem Solving, Algorithms and Data Structures:
 		The Algorithm Design Manual
-				https://www.amazon.com/gp/product/1848000693?pldnSite=1 (book)
-				http://www3.cs.stonybrook.edu/~algorith/video-lectures/  (free- video, audio, and lecture slides)
+			https://www.amazon.com/gp/product/1848000693?pldnSite=1 (book)
+			http://www3.cs.stonybrook.edu/~algorith/video-lectures/  (free- video, audio, and lecture slides)
 		Tim Roughgarden's courses on the subject
-				Algorithms: Design and Analysis, Part 1 (free? coursera class)
-						https://www.coursera.org/learn/algorithm-design-analysis
-				Algorithms: Design and Analysis, Part 2 (free? coursera class)
-						https://www.coursera.org/learn/algorithm-design-analysis-2
-
+			Algorithms: Design and Analysis, Part 1 (free? coursera class)
+				https://www.coursera.org/learn/algorithm-design-analysis
+			Algorithms: Design and Analysis, Part 2 (free? coursera class)
+				https://www.coursera.org/learn/algorithm-design-analysis-2
 		Leetcode (a platform for preparing technical coding interviews free)
-				https://leetcode.com/
+			https://leetcode.com/
 		How to Solve It: A New Aspect of Mathematical Method (excellent resource for all sorts of problem solving)
-				https://www.amazon.com/gp/product/069116407X?pldnSite=1							
+			https://www.amazon.com/gp/product/069116407X?pldnSite=1							
 	Operating Systems:
 		Operating Systems: Three Easy Pieces (free- online book)
-				http://pages.cs.wisc.edu/~remzi/OSTEP/
+			http://pages.cs.wisc.edu/~remzi/OSTEP/
 		How Browsers Work: Behind the scenes of modern web browsers (free- ebook with embedded lectures)
-				http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+			http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 		Matt Brubeck: Let's build a browser engine! (online project)
-				https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+			https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+
 	Networking:
 		Computer Networking: A Top-Down Approach (7th Edition book)
-				https://www.amazon.com/gp/product/0133594149?pldnSite=1
-				http://www-net.cs.umass.edu/wireshark-labs/ (wireshark labs tools)
+			https://www.amazon.com/gp/product/0133594149?pldnSite=1
+			http://www-net.cs.umass.edu/wireshark-labs/ (wireshark labs tools)
 		COMPUTER NETWORKING (free youtube lecture series of Stanford CS144)
-				https://www.youtube.com/watch?v=5Hk9JE5tcZk&list=PLx_Dnlrnkd6f3mtJgmoBk2ugbRsf3ZxkH
+			https://www.youtube.com/watch?v=5Hk9JE5tcZk&list=PLx_Dnlrnkd6f3mtJgmoBk2ugbRsf3ZxkH
+			
 	Databases:
+		Transaction Processing
+			https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902
+		Data Modeling
+			https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215
+		DBMS architecture
+			http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
+
+Machine Learning
+	Neural Networks and Deep Learning - online book - http://neuralnetworksanddeeplearning.com/
+	Andrej Karpathy blog - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+	Getting Started with Deep Learning and Python - http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
+	Coursera class on Machine Learning (Stanford professor Andrew Ng) -  https://www.coursera.org/learn/machine-learning
+	Back propagation (paper) - http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+	Convolutional Neural Network (biologically inspired variants of machine learning programs) - http://deeplearning.net/tutorial/lenet.html
+	TRAINING RECURRENT NEURAL NETWORKS (doctoral thesis Ilya Sutskever) - http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf
+	On the difficulty of training Recurrent Neural Networks (paper) - http://arxiv.org/pdf/1211.5063v2.pdf
+	Initialization of deep networks (paper Gustav Larsson) http://deepdish.io/2015/02/24/network-initialization/
+	A brief overview of deep learning - Ilya Sutskever - http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
+	Deep Learning, NLP, and Representations (blog - Christopher Olah)- https://christopherolah.wordpress.com/
+
+
+
+
+
+
+
+
+
+
+
+
