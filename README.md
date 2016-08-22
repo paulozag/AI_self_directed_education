@@ -59,7 +59,7 @@ The Elements of Computing Systems, also known as “Nand2Tetris”
 
 
 ####Machine Learning <br>
--  Machine Learning is Fun! [part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.8zlay6r8v), [part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.4b6ludv0y), [part 3](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.2qs1po8xv), [part 4](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.cog0lnag9)
+-  Machine Learning is Fun! [part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.8zlay6r8v), [part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.4b6ludv0y), [part 3](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.2qs1po8xv), [part 4](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.cog0lnag9), [part 5](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.ojmx9uqz7)
 -  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) (online book)<br>
 -  [Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) <br>
 -  [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/) <br>
