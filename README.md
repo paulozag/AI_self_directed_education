@@ -9,6 +9,16 @@ I am a graduate of DBC (a web development bootcamp located in San Francisco).  I
 ###Dilemma:
 With regard to my understanding of computer science I currently reside in the 'first house of knowledge': namely, that I don't yet know what I don't know.  I'm currently slogging through as many sources as I can, gaining some perspective on what I am ignorant of, and trying to systemitize/generate some structure of what I need to study and the best order in which to tackle the material.
 
+#### Basic Skills
+-  **Mathmatics** <br>
+Khan Acadamy: [Differential calculus](https://www.khanacademy.org/math/differential-calculus), [Integral calculus](https://www.khanacademy.org/math/integral-calculus), [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus), [Differential equations](https://www.khanacademy.org/math/differential-equations), [Linear algebra](https://www.khanacademy.org/math/linear-algebra)<br>
+[Discrete Math](https://www.youtube.com/playlist?list=PLkY44qP_j10oLuAVFKOBQxOgLTl8upE8y) (youtube lecture series)<br>
+[Discrete Mathematics and Its Applications](https://www.amazon.ca/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0073383090/)<br>
+[Naive Set Theory](https://www.amazon.com/Naive-Set-Theory-Paul-Halmos/dp/1781394660)<br>
+
+
+
+
 ####General Computer Science <br>
 (a lot of this was directly lifted from a wonderful resource provided by Myles Byrne at the Bradfield School of Computer Science  http://bradfieldcs.com/diy/ )<br>
 
@@ -49,6 +59,7 @@ The Elements of Computing Systems, also known as “Nand2Tetris”
 
 
 ####Machine Learning <br>
+-  Machine Learning is Fun! [part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.8zlay6r8v), [part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.4b6ludv0y), [part 3](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.2qs1po8xv), [part 4](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.cog0lnag9)
 -  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) (online book)<br>
 -  [Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) <br>
 -  [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/) <br>
@@ -59,9 +70,22 @@ The Elements of Computing Systems, also known as “Nand2Tetris”
 -  [On the difficulty of training Recurrent Neural Networks](http://arxiv.org/pdf/1211.5063v2.pdf) (paper)<br>
 -  [Initialization of deep networks](http://deepdish.io/2015/02/24/network-initialization/) (paper Gustav Larsson)  <br>
 -  [A brief overview of deep learning - Ilya Sutskever](http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html)
--  [Deep Learning, NLP, and Representations](https://christopherolah.wordpress.com/) (blog - Christopher Olah)-  <br>
+-  [Deep Learning, NLP, and Representations](https://christopherolah.wordpress.com/) (blog - Christopher Olah)  <br>
 
+#### From Machine Learning to Artificial General Intelligence <br>
+-  Introductory Reading <br>
+[Arificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-Edition/dp/0136042597)<br>
+[The Society of Mind](https://www.amazon.com/The-Society-Mind-Marvin-Minsky/dp/0671657135)<br>
+[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://www.amazon.com/Essential-Turing-Philosophy-Artificial-Intelligence/dp/0198250800)<br>
+[A Collection of Definitions of Intelligence](http://arxiv.org/abs/0706.3639)<br>
+[Artificial General Intelligence](https://www.amazon.ca/Artificial-General-Intelligence-Ben-Goertzel/dp/354023733X)<br>
 
+-  Further (more advanced) Reading <br>
+[The Logic of Intelligence](http://cis-linux1.temple.edu/~pwang/Publication/logic_intelligence.pdf)<br>
+[Machine Super Intelligence](http://www.vetta.org/documents/Machine_Super_Intelligence.pdf)<br>
+[The New AI: General & Sound & Relevant for Physics](http://arxiv.org/abs/cs/0302012)<br>
+[Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements](http://arxiv.org/abs/cs/0309048)<br>
+[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://www.amazon.com/Essential-Turing-Philosophy-Artificial-Intelligence/dp/0198250800)<br>
 
 
 
