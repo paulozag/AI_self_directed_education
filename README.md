@@ -71,6 +71,11 @@ The Elements of Computing Systems, also known as “Nand2Tetris”
 -  [Initialization of deep networks](http://deepdish.io/2015/02/24/network-initialization/) (paper Gustav Larsson)  <br>
 -  [A brief overview of deep learning - Ilya Sutskever](http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html)
 -  [Deep Learning, NLP, and Representations](https://christopherolah.wordpress.com/) (blog - Christopher Olah)  <br>
+-  [CS224D Lecture 8 - 2015 - Fancy Recurrent Neural Networks for Machine Translation](https://www.youtube.com/watch?v=qGlmW2n4s1w)<br>
+-  [Neural Machine Translation](http://cs224d.stanford.edu/lectures/CS224d-Lecture15.pdf)<br>
+-  [Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)<br>
+-  [Sequence-to-Sequence Models with TensorFlow](https://www.tensorflow.org/versions/r0.10/tutorials/seq2seq/index.html)<br>
+
 
 #### From Machine Learning to Artificial General Intelligence <br>
 -  Introductory Reading <br>
